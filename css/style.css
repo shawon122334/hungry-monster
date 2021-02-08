@@ -1,0 +1,13 @@
+/* Food details section */
+.Items-details{
+    display: none;
+}
+.Show-details{
+    display: block;
+}
+
+/* Food list section */
+.custom-flex{
+    display: inline-flex;
+    margin:10px 5px;
+}
